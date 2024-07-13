@@ -4,8 +4,12 @@
 <br>
 
 <p align="center">
-  ![preview](https://github.com/user-attachments/assets/42f3f9ba-dc81-4f79-ac8d-e448510e341e)
+Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
 </p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 
 ## 🚀 Tecnologias
