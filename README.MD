@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  ![preview](https://github.com/user-attachments/assets/42f3f9ba-dc81-4f79-ac8d-e448510e341e)
 </p>
 
 
