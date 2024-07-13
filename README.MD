@@ -1,7 +1,7 @@
 
 
 
-<a href="https://github.com/KallebPires/Planner-de-viagem/issues/1#issue-2407194349"></a>
+
 
 
 ## 🚀 Tecnologias
