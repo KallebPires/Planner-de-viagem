@@ -92,19 +92,11 @@ main{
 }
 
 h1{
-width: 350px;
-height: 29px;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 24px;
-line-height: 29px;
-text-align: center;
-flex: none;
-order: 0;
-align-self: stretch;
-flex-grow: 0;
-margin-bottom: 24px;
+    text-align: center; 
+    font-weight: 600;
+    font-size: 24px;
+  
+    margin-bottom: 24px;
 
 }
 
